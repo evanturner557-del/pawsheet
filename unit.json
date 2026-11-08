@@ -1,0 +1,41 @@
+{
+  "unit_id": "LOCAL-BATCH2-PAWSHEET",
+  "name": "Pet care record and sitter sheet printable",
+  "public_name": "Pawsheet",
+  "slug": "pawsheet",
+  "site_dir": "/workspace/sites-new/pawsheet",
+  "public_domains": [],
+  "user_go": null,
+  "checkout_mode": "none",
+  "checkoutMode": "none",
+  "email": "localreply+pawsheet@agentmail.to",
+  "stage": "LOCAL_DRAFT",
+  "type": "digital",
+  "status_label": "LOCAL ONLY / coming soon / not for sale",
+  "offer": {
+    "audience": "UK dog and cat owners",
+    "offer": "A printable pet records pack: vet and treatment dates you write in, feeding routine and a one-page sheet for whoever looks after them.",
+    "pricing": [
+      {
+        "price": "\u00a34 one-off (planned)",
+        "status": "planned/draft"
+      }
+    ],
+    "limits": "An organisation pack, not veterinary advice. Treatment, vaccination and feeding decisions come from your vet and product labels; dates you write down are reminders only."
+  },
+  "trader_name": null,
+  "trader_address": null,
+  "spend_gbp": 0,
+  "publish": {
+    "status": "NOT_PUBLISHED"
+  },
+  "inbox": {
+    "address": "localreply+pawsheet@agentmail.to",
+    "status": "plus-address; delivery not independently tested"
+  },
+  "name_check": {
+    "date": "2026-11-08",
+    "method": "Exact-name public web search only",
+    "result": "No obvious same-name commercial conflict in returned results; not trademark clearance"
+  }
+}

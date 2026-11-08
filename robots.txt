@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /pawsheet/d/
+Disallow: /d/
+Sitemap: https://evanturner557-del.github.io/pawsheet/sitemap.xml
