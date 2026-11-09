@@ -1,7 +1,7 @@
 # Pawsheet brand system
 
 Position: Pet care record and sitter sheet printable for UK dog and cat owners, with calm, practical page design.
-Primary #5a3d5c; accent #f3c9a0; nine-step neutral ramp and status colours in assets/tokens.css. Display: fraunces; text: Source Sans 3. SIL OFL fonts and licences included. Scale: mobile 45/34/23/18/15; desktop 76/48/23/21/18/15.
+Primary #5A3E1B; accent #f3c9a0; nine-step neutral ramp and status colours in assets/tokens.css. Display: fraunces; text: Source Sans 3. SIL OFL fonts and licences included. Scale: mobile 45/34/23/18/15; desktop 76/48/23/21/18/15.
 
 Logo directions considered: pure wordmark (clear but generic); open-path symbol + wordmark (selected); initial monogram (rejected as generic). Mark is an original line symbol for Pawsheet, not a boxed letter. Favicons use the same open-path symbol. No invented affiliations.
 
